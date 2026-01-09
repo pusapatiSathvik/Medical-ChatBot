@@ -1,0 +1,22 @@
+# Web Server
+Flask
+
+# Environment Variables
+python-dotenv
+
+# LangChain 2026 Core & Classic
+langchain
+langchain-core
+langchain-community
+langchain-classic
+
+# AI Integrations
+langchain-google-genai
+langchain-pinecone
+langchain-huggingface
+
+# Pinecone Native Client
+pinecone-client
+
+# Utilities
+pypdf

@@ -14,7 +14,7 @@ langchain-classic
 langchain-google-genai
 langchain-pinecone
 langchain-huggingface
-
+langchain-text-splitters
 # Pinecone Native Client
 pinecone-client
 
